@@ -1,3 +1,20 @@
 body {
     padding-top: 5rem;
 }
+
+.images {
+    display: flexbox;
+    columns: 3;
+    padding: 10px;
+}
+
+.img {
+    height: 300px;
+    width: 270px;
+}
+
+.grid-item {
+    list-style-type: none;
+    padding: 20px;
+    text-align: center;
+}
